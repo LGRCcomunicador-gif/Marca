@@ -1,0 +1,9 @@
+PÁGINA PERSONAL — LUIS GUILLERMO ROSERO CADENA
+
+Abre index.html en cualquier navegador. No requiere instalación ni dependencias.
+
+Publicación: sube index.html a la raíz de un repositorio de GitHub y configura GitHub Pages desde Settings > Pages según las opciones disponibles en tu cuenta.
+
+La sección Hobbies incluye las aficiones proporcionadas por el titular: jugar fútbol, leer, caminar, ver películas y bailar. La sección de contacto no contiene correo, teléfono ni formulario. El canal público queda pendiente de definir.
+
+No se incluye el PDF de la hoja de vida ni sus soportes.
